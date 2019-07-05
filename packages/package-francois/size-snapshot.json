@@ -1,0 +1,7 @@
+{
+  "build/umd/package-francois.production.min.js": {
+    "bundled": 20661,
+    "minified": 8652,
+    "gzipped": 3134
+  }
+}
